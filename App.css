@@ -1,0 +1,8 @@
+.App {
+  display: grid;
+  width: fit-content;
+  margin: 0 auto;
+  justify-content: center;
+  padding: 5px;
+  text-align: center;
+}

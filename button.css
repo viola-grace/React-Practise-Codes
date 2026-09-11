@@ -1,0 +1,8 @@
+.button{
+    display: grid;
+    margin: 0 auto;
+    width: fit-content;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}
